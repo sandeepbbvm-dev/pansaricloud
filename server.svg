@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
-  <rect width="100%" height="100%" fill="#ffffff"/>
-  <rect x="70" y="30" width="260" height="60" rx="6" fill="#1976d2"/>
-  <rect x="70" y="100" width="260" height="60" rx="6" fill="#1976d2"/>
-  <rect x="70" y="170" width="260" height="60" rx="6" fill="#1976d2"/>
-  <text x="80" y="65" font-family="Arial" font-size="14" fill="#fff">Server Configuration</text>
-  <text x="80" y="135" font-family="Arial" font-size="14" fill="#fff">Maintenance</text>
-</svg>
