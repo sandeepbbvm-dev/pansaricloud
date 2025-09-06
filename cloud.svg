@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400">
-  <rect width="100%" height="100%" fill="#f4f9ff"/>
-  <g transform="translate(120,60)">
-    <path d="M200 80a60 60 0 0 0-60-60 80 80 0 0 0-80 80 60 60 0 0 0 0 120h260a70 70 0 0 0 0-140 100 100 0 0 0-120-0z" fill="#0d47a1"/>
-  </g>
-  <text x="20" y="360" font-family="Arial" font-size="24" fill="#0d47a1">Cloud Technology</text>
-</svg>
